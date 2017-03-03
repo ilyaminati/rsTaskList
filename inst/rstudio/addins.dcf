@@ -1,0 +1,4 @@
+Name: Task List
+Description: Show task items
+Binding: todos
+Interactive: false
